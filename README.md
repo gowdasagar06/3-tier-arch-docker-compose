@@ -1,3 +1,3 @@
 # Travellist - Laravel Demo App
 
-This is a Laravel 6 demo application to support our Laravel guides.
+https://www.digitalocean.com/community/tutorials/how-to-containerize-a-laravel-application-for-development-with-docker-compose-on-ubuntu-18-04 
